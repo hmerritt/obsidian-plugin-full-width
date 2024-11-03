@@ -8,9 +8,8 @@ Simple plugin to make the viewer/editor the full width of the screen.
 
 ### Copy-Paste build from Releases
 
-1. [Download latest release here](https://github.com/hmerritt/obsidian-plugin-full-width/releases/download/1.25.0/full-width.tar)
-2. Untar `full-width.tar`
-3. Move full-width folder to `<obsidian-vault>/.obsidian/plugins/full-width`
+1. [Download latest release here](https://github.com/hmerritt/obsidian-plugin-full-width/releases/latest)
+2. Copy release files into `<obsidian-vault>/.obsidian/plugins/full-width`
 
 ### Build manially
 
