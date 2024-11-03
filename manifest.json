@@ -1,7 +1,7 @@
 {
 	"id": "full-width",
 	"name": "Full Width",
-	"version": "1.25.0",
+	"version": "1.40.0",
 	"minAppVersion": "0.15.0",
 	"description": "Toggle full width mode. Makes editor/viewer the full width.",
 	"author": "Harry Merritt",
