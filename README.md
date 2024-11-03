@@ -2,6 +2,8 @@
 
 Simple plugin to make the viewer/editor the full width of the screen.
 
+![](./example.gif)
+
 ## Install
 
 ### Copy-Paste build from Releases
