@@ -122,11 +122,11 @@ class FullWidthSettingTab extends PluginSettingTab {
 		new Setting(containerEl)
 			.setName("Width")
 			.setDesc(
-				"Customize the width to make the editor/viewer when toggled."
+				"The width (as a percentage) to make the viewer when toggled (Default: 95)"
 			)
 			.addText((text) =>
 				text
-					.setPlaceholder("Width (as a %)")
+					.setPlaceholder("Width (%)")
 					.setValue(this.plugin.settings.width.toString())
 					.onChange(async (value) => {
 						if (!value) return;
@@ -134,7 +134,7 @@ class FullWidthSettingTab extends PluginSettingTab {
 						if (
 							isNaN(valueNumber) ||
 							valueNumber < 0 ||
-							valueNumber > 1000
+							valueNumber > 200
 						)
 							return;
 

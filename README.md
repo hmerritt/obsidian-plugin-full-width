@@ -1,6 +1,6 @@
-# [Obsidian Plugin] Full Width
+# [Obsidian Plugin] Viewer Full Width
 
-Simple plugin to make the viewer/editor the full width of the screen.
+Simple plugin that adds a toggle to expand the viewer to the full width of the screen.
 
 ![](./example.gif)
 

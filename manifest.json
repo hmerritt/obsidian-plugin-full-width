@@ -1,9 +1,9 @@
 {
-	"id": "full-width",
-	"name": "Full Width",
-	"version": "1.40.0",
+	"id": "viewer-full-width",
+	"name": "Viewer Full Width",
+	"version": "1.45.0",
 	"minAppVersion": "0.15.0",
-	"description": "Toggle full width mode. Makes editor/viewer the full width.",
+	"description": "A toggle to expand the viewer to the full width of the screen.",
 	"author": "Harry Merritt",
 	"authorUrl": "https://github.com/hmerritt",
 	"isDesktopOnly": true
