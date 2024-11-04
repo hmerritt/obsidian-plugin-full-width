@@ -8,16 +8,16 @@ Simple plugin that adds a toggle to expand the viewer to the full width of the s
 
 ### Copy-Paste build from Releases
 
-1. [Download latest release here](https://github.com/hmerritt/obsidian-plugin-full-width/releases/latest)
-2. Copy release files into `<obsidian-vault>/.obsidian/plugins/full-width`
+1. [Download latest release here](https://github.com/hmerritt/obsidian-plugin-viewer-full-width/releases/latest)
+2. Copy release files into `<obsidian-vault>/.obsidian/plugins/viewer-full-width`
 
 ### Build manially
 
-1. Clone repo `git clone https://github.com/hmerritt/obsidian-plugin-full-width.git`
-2. `cd obsidian-plugin-full-width`
+1. Clone repo `git clone https://github.com/hmerritt/obsidian-plugin-viewer-full-width.git`
+2. `cd obsidian-plugin-viewer-full-width`
 3. `npm i`
 4. `npm run build`
-5. Copy `main.js` + `manifest.json` into your `<obsidian-vault>/.obsidian/plugins/full-width`
+5. Copy `main.js` + `manifest.json` into your `<obsidian-vault>/.obsidian/plugins/viewer-full-width`
 
 ## Developing
 
